@@ -32,6 +32,10 @@ public class IterateStudents {
        
        students.forEach(p-> System.out.println(p.getNameStudent()));
                
-               
+       // Lets's use the streams to iterate the students..
+       students.stream()
+               .filter(s -> s.getNameStudent().contains("T"))
+               .sorted()
+               .forEach(s-> System.out.println(s.getAgeStudent()));
    }    
 }
