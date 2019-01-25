@@ -1,4 +1,4 @@
-# Project Java 8
+# Project Java 8 and other things learned Java
 
-Trying to progress my knowledge in Java speacially in Java 8 version this repository will be used to contain the developed files using this new 
-version
+This project has code involving Java, specifically Java version 8 and other things that I needed to learned along these requirements :D 
+
